@@ -21,3 +21,8 @@ Whether you be a seasoned wizard of code or a humble traveler seeking guidance, 
 Our tomes of knowledge and discussions are open to all. Join our ranks, contribute your wisdom, and help us shape a brighter future for developers far and wide.
 
 **The road goes ever on and on, and together, we shall see it through.**
+
+
+## Connect
+![Discord Banner 2](https://discord.com/api/guilds/1337224918710095882/widget.png?style=banner2)
+
