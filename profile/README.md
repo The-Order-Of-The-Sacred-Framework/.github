@@ -26,3 +26,4 @@ Our tomes of knowledge and discussions are open to all. Join our ranks, contribu
 ## Connect
 ![Discord Banner 2](https://discord.com/api/guilds/1337224918710095882/widget.png?style=banner2)
 
+[Join the discord](https://discord.gg/MukwBuJjP7)
