@@ -55,6 +55,6 @@ Follow updates, participate in new releases, and contribute to the evolving road
 
 **Tags**: #FiveM #Lua #Discord #CommunityBridge #OpenSource #GameDevelopment #ServerScripts #Roleplay #FiveMScripts #LuaDevelopment #DiscordIntegration #ServerManagement
 
-**Search Tags:** `fivem-scripts` `qbcore-scripts` `qbox-scripts` `qbx-scripts` `free-fivem` `lua-programming` `gta5-roleplay` `roleplay-scripts` `oxlib-integration` `community-bridge` `item-based` `professional-scripts` `open-source` `multi-framework` `qb-core` `qbox` `qbx` `free` `script` `community_bridge`
+**Search Tags:** `fivem-scripts` `qbcore-scripts` `qbox-scripts` `qbx-scripts` `free-fivem` `lua-programming` `gta5-roleplay` `roleplay-scripts` `oxlib-integration` `community-bridge` `item-based` `professional-scripts` `open-source` `multi-framework` `qb-core` `qbox` `qbx` `free` `script` `community_bridge` `ox_inventory` `ox_target`
 
 </details>
